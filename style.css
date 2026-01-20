@@ -3,14 +3,9 @@
   src: url("fonts/subset-Pyidaungsu.woff2") format("woff2");
   font-display: swap;
 }
-@font-face {
-  font-family: "WhisperMM";
-  src: url("fonts/subset-Pyidaungsu.woff2") format("woff2");
-  font-display: swap;
-}
-
-body {
-  font-family: "WhisperMM", serif !important;
+body,
+body * {
+  font-family: "Pyidaungsu", serif !important;
 }
 
 /* Whisper1of-like reading style */
