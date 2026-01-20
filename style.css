@@ -3,14 +3,14 @@
   src: url("fonts/subset-Pyidaungsu.woff2") format("woff2");
   font-display: swap;
 }
+
 body,
 body * {
   font-family: "Pyidaungsu", serif !important;
 }
 
-/* Whisper1of-like reading style */
+/* reading style only */
 body {
-  font-family: "WhisperMM", "Noto Serif Myanmar", serif;
   font-size: 18px;
   line-height: 1.9;
   letter-spacing: 0.01em;
@@ -19,7 +19,7 @@ body {
   margin: 0;
   padding: 18px;
 }
-.block_ {
+block_ {
     color: #000;
     display: block;
     letter-spacing: 0.5pt;
