@@ -1,3 +1,21 @@
+@font-face {
+  font-family: "WhisperMM";
+  src: url("https://raw.githubusercontent.com/aungsoemoe0/Font/main/subset-A10_YoeShin-Regular.woff2")
+       format("woff2");
+  font-display: swap;
+}
+
+/* Whisper1of-like reading style */
+body {
+  font-family: "WhisperMM", "Noto Serif Myanmar", serif;
+  font-size: 18px;
+  line-height: 1.9;
+  letter-spacing: 0.01em;
+  background: #fafafa;
+  color: #111;
+  margin: 0;
+  padding: 18px;
+}
 .block_ {
     color: #000;
     display: block;
