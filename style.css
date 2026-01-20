@@ -1,4 +1,9 @@
 @font-face {
+  font-family: "Pyidaungsu";
+  src: url("fonts/subset-Pyidaungsu.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
   font-family: "WhisperMM";
   src: url("fonts/subset-Pyidaungsu.woff2") format("woff2");
   font-display: swap;
@@ -501,7 +506,10 @@ body {
     letter-spacing: 0.5pt;
     line-height: 1.2
     }
-
+body,
+body * {
+  font-family: "Pyidaungsu", serif !important;
+}
 @page {
     margin-bottom: 5pt;
     margin-top: 5pt
