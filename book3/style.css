@@ -1,4 +1,13 @@
-.block_ {
+@font-face {
+  font-family: "Pyidaungsu";
+  src: url("fonts/subset-Pyidaungsu.woff2") format("woff2");
+  font-display: swap;
+}
+
+body,
+body * {
+  font-family: "Pyidaungsu", serif !important;
+    .block_ {
     display: block;
     line-height: 1.5;
     margin-bottom: 6pt;
