@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4a0cec20-7af3-4294-beac-d4094ca73acc</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f3cd5e7-8bd2-47e9-ac11-7cbc4836daae</dc:identifier>
+        <dc:title>တစ္ဆေ</dc:title>
+        <dc:creator opf:file-as="မင်းကျော်, " opf:role="aut">မင်းကျော်</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.15.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:description>မြန်မာနိုင်ငံ လွတ်လပ်ရေးမရမီ ၁၉၄၇ ခုနှစ်မှ စ၍ ဇာတ်အိမ်တည်ထားသည့် နိုင်ငံရေးနောက်ခံ၊ လူမှုရေး၊ အချစ်ရေး၊ အိမ်ထောင်ရေး၊ ငွေကြေးဥစ္စာအာဏာ၊ တိုင်းချစ်ပြည်ချစ်စိတ်နှင့် မျိုးဆက်နှစ်ဆက်ကြားက ဘဝဇာတ်လမ်းရှည်တခု…</dc:description>
+        <dc:publisher>Whisper Of Words</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:subject>Https://whisper1of.blogspot.com</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
