@@ -1,8 +1,11 @@
 @font-face {
   font-family: "WhisperMM";
-  src: url("https://raw.githubusercontent.com/aungsoemoe0/Font/main/subset-A10_YoeShin-Regular.woff2")
-       format("woff2");
+  src: url("fonts/subset-Pyidaungsu.woff2") format("woff2");
   font-display: swap;
+}
+
+body {
+  font-family: "WhisperMM", serif !important;
 }
 
 /* Whisper1of-like reading style */
